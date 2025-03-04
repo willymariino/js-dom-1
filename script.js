@@ -1,1 +1,2 @@
-const element = document.querySelector(".white-lamp")
+const lampElement = document.querySelector(".white_lamp");
+console.log(lampElement)
