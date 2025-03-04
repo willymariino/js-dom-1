@@ -1,1 +1,1 @@
-document.querySelector(".white-lamp")
+const element = document.querySelector(".white-lamp")
